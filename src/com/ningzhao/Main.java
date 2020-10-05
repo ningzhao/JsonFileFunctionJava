@@ -57,6 +57,7 @@ public class Main {
                 }
             }
 
+            System.out.println("**** output.json ************");
             System.out.println(client.exportJsonString());
 
             FileWriter fileWriter = new FileWriter("output.json");
