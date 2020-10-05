@@ -1,0 +1,3 @@
+AddPlaylist 4 2 1 2 3
+RemovePlaylist 2
+AddSong 1 2
